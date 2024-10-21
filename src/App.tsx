@@ -71,7 +71,7 @@ function App() {
         className="bg-white rounded-lg shadow-2xl p-6 w-full max-w-3xl"
       >
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold text-indigo-600">Medical Assistant</h1>
+          <h1 className="text-3xl font-bold text-indigo-600">Medical Chat Bot</h1>
           <div className="flex space-x-2">
             <motion.button
               whileHover={{ scale: 1.05 }}
